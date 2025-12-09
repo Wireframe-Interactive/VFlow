@@ -3,5 +3,5 @@
 
 int main() {
 	std::cout << "CPU Threads: " << SysInfo::getCPUThreads() << '\n';
-	return 0;
+	return 0; 
 }
